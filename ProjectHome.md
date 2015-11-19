@@ -1,0 +1,1 @@
+Remove Apple's code which prevents display overclocking in Mac OS X; allow 4K over HDMI at full refresh rate (24 Hz, 25 Hz, 30 Hz, or more)
